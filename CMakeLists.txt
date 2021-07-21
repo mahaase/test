@@ -1,2 +1,2 @@
-add_executable(r1 main.cpp)
-install(TARGETS r1)
+add_executable(r2 main.cpp)
+install(TARGETS r2)
